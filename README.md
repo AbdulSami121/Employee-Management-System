@@ -1,2 +1,2 @@
-# Information-Portal
-Simple information portal using python tkinter library
+# Employee Management System
+Simple Employee Management System using python tkinter library
